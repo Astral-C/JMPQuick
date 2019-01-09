@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>JMPQuickIcon.png</file>
+        <file>names.txt</file>
+    </qresource>
+</RCC>
